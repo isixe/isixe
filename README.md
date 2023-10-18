@@ -1,16 +1,21 @@
-### Hi there 👋
+👋Hello I'm isixe
 
-<!--
-**isixe/isixe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Github Stats
 
-Here are some ideas to get you started:
+<span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <a  href="#">
+
+  <img min-device-width="20px" src="https://github-stats.exi.software/api?username=isixe
+&show_icons=true&icon_color=0969da&text_color=575f6a&bg_color=ffffff&hide_title=true&include_all_commits=true" width="54.6%"/>
+
+ </a>
+
+ <a href="">
+
+  <img  align="left" min-device-width="30px" src="https://github-stats.exi.software/api/top-langs/?username=isixe
+&layout=compact&text_color=575f6a&count_private=true&theme=default" width="38.6%"/>
+
+ </a>
+
+</span>
