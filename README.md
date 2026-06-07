@@ -1,4 +1,14 @@
-👋Hello I'm isixe
+<p align="center"><i>Creativity × Code = Fun tools</i></p>
+
+<p align="center">
+  👋Hello I'm isixe. A indie developer.
+</p>
+
+<p align="center">
+  <a href="https://itea.dev">Portfolio</a> ·
+  <a href="https://blog.isixe.com">Blog</a> ·
+  <a href="https://drifter.itea.dev">Newsletter</a>
+</p>
 
 ### Github Stats
 
