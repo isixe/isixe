@@ -1,5 +1,3 @@
-<p align="center"><i>Creativity × Code = Fun tools</i></p>
-
 <p align="center">
   👋Hello I'm isixe. A indie developer.
 </p>
